@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "login-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://irabasara.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://irabasara.github.io/login-phonebook/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
